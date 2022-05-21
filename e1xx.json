@@ -1,0 +1,356 @@
+{
+  "UTFPR-VISITANTE": {
+    "e101": {
+      "01": {
+        "signal": "-62 dBm",
+        "channel": "Channel 11"
+      },
+      "02": {
+        "signal": "-61 dBm",
+        "channel": "Channel 11"
+      },
+      "03": {
+        "signal": "-51 dBm",
+        "channel": "Channel 11"
+      },
+      "04": {
+        "signal": "-63 dBm",
+        "channel": "Channel 11"
+      },
+      "05": {
+        "signal": "-68 dBm",
+        "channel": "Channel 11"
+      },
+      "06": {
+        "signal": "-71 dBm",
+        "channel": "Channel 11"
+      },
+      "07": {
+        "signal": "-71 dBm",
+        "channel": "Channel 11"
+      },
+      "08": {
+        "signal": "-62 dBm",
+        "channel": "Channel 1"
+      }
+    },
+    "e102": {
+      "01": {
+        "signal": "-63 dBm",
+        "channel": "Channel 11"
+      },
+      "02": {
+        "signal": "-63 dBm",
+        "channel": "Channel 11"
+      },
+      "03": {
+        "signal": "-43 dBm",
+        "channel": "Channel 11"
+      },
+      "04": {
+        "signal": "-43 dBm",
+        "channel": "Channel 11"
+      },
+      "05": {
+        "signal": "-67 dBm",
+        "channel": "Channel 11"
+      },
+      "06": {
+        "signal": "-67 dBm",
+        "channel": "Channel 11"
+      }
+    },
+    "e103": {
+      "01": {
+        "signal": "-46 dBm",
+        "channel": "Channel 11"
+      },
+      "02": {
+        "signal": "-49 dBm",
+        "channel": "Channel 11"
+      },
+      "03": {
+        "signal": "-49 dBm",
+        "channel": "Channel 11"
+      },
+      "04": {
+        "signal": "-58 dBm",
+        "channel": "Channel 11"
+      },
+      "05": {
+        "signal": "-58 dBm",
+        "channel": "Channel 11"
+      },
+      "06": {
+        "signal": "-54 dBm",
+        "channel": "Channel 11"
+      }
+    },
+    "e1xx": {
+      "01": {
+        "signal": "-54 dBm",
+        "channel": "Channel 6"
+      },
+      "02": {
+        "signal": "-54 dBm",
+        "channel": "Channel 6"
+      },
+      "03": {
+        "signal": "-47 dBm",
+        "channel": "Channel 6"
+      },
+      "04": {
+        "signal": "-32 dBm",
+        "channel": "Channel 6"
+      },
+      "05": {
+        "signal": "-39 dBm",
+        "channel": "Channel 6"
+      },
+      "06": {
+        "signal": "-42 dBm",
+        "channel": "Channel 6"
+      },
+      "07": {
+        "signal": "-47 dBm",
+        "channel": "Channel 6"
+      }
+    }
+  },
+  "UTFPR-ALUNO": {
+    "e101": {
+      "01": {
+        "signal": "-62 dBm",
+        "channel": "Channel 11"
+      },
+      "02": {
+        "signal": "-60 dBm",
+        "channel": "Channel 11"
+      },
+      "03": {
+        "signal": "-60 dBm",
+        "channel": "Channel 11"
+      },
+      "04": {
+        "signal": "-60 dBm",
+        "channel": "Channel 11"
+      },
+      "05": {
+        "signal": "-68 dBm",
+        "channel": "Channel 11"
+      },
+      "06": {
+        "signal": "-69 dBm",
+        "channel": "Channel 11"
+      },
+      "07": {
+        "signal": "-69 dBm",
+        "channel": "Channel 11"
+      },
+      "08": {
+        "signal": "-59 dBm",
+        "channel": "Channel 1"
+      }
+    },
+    "e102": {
+      "01": {
+        "signal": "-60 dBm",
+        "channel": "Channel 11"
+      },
+      "02": {
+        "signal": "-60 dBm",
+        "channel": "Channel 11"
+      },
+      "03": {
+        "signal": "-43 dBm",
+        "channel": "Channel 11"
+      },
+      "04": {
+        "signal": "-43 dBm",
+        "channel": "Channel 11"
+      },
+      "05": {
+        "signal": "-51 dBm",
+        "channel": "Channel 11"
+      },
+      "06": {
+        "signal": "-51 dBm",
+        "channel": "Channel 11"
+      }
+    },
+    "e103": {
+      "01": {
+        "signal": "-46 dBm",
+        "channel": "Channel 11"
+      },
+      "02": {
+        "signal": "-47 dBm",
+        "channel": "Channel 11"
+      },
+      "03": {
+        "signal": "-47 dBm",
+        "channel": "Channel 11"
+      },
+      "04": {
+        "signal": "-56 dBm",
+        "channel": "Channel 11"
+      },
+      "05": {
+        "signal": "-56 dBm",
+        "channel": "Channel 11"
+      },
+      "06": {
+        "signal": "-55 dBm",
+        "channel": "Channel 11"
+      }
+    },
+    "e1xx": {
+      "01": {
+        "signal": "-53 dBm",
+        "channel": "Channel 6"
+      },
+      "02": {
+        "signal": "-56 dBm",
+        "channel": "Channel 6"
+      },
+      "03": {
+        "signal": "-49 dBm",
+        "channel": "Channel 6"
+      },
+      "04": {
+        "signal": "-39 dBm",
+        "channel": "Channel 6"
+      },
+      "05": {
+        "signal": "-44 dBm",
+        "channel": "Channel 6"
+      },
+      "06": {
+        "signal": "-45 dBm",
+        "channel": "Channel 6"
+      },
+      "07": {
+        "signal": "-55 dBm",
+        "channel": "Channel 6"
+      }
+    }
+  },
+  "UTFPR-SERVIDOR": {
+    "e101": {
+      "01": {
+        "signal": "-63 dBm",
+        "channel": "Channel 11"
+      },
+      "02": {
+        "signal": "-60 dBm",
+        "channel": "Channel 11"
+      },
+      "03": {
+        "signal": "-60 dBm",
+        "channel": "Channel 11"
+      },
+      "04": {
+        "signal": "-60 dBm",
+        "channel": "Channel 11"
+      },
+      "05": {
+        "signal": "-68 dBm",
+        "channel": "Channel 11"
+      },
+      "06": {
+        "signal": "-67 dBm",
+        "channel": "Channel 11"
+      },
+      "07": {
+        "signal": "-67 dBm",
+        "channel": "Channel 11"
+      },
+      "08": {
+        "signal": "-59 dBm",
+        "channel": "Channel 1"
+      }
+    },
+    "e102": {
+      "01": {
+        "signal": "-73 dBm",
+        "channel": "Channel 1"
+      },
+      "02": {
+        "signal": "-73 dBm",
+        "channel": "Channel 1"
+      },
+      "03": {
+        "signal": "-63 dBm",
+        "channel": "Channel 1"
+      },
+      "04": {
+        "signal": "-63 dBm",
+        "channel": "Channel 1"
+      },
+      "05": {
+        "signal": "-66 dBm",
+        "channel": "Channel 11"
+      },
+      "06": {
+        "signal": "-66 dBm",
+        "channel": "Channel 11"
+      }
+    },
+    "e103": {
+      "01": {
+        "signal": "-46 dBm",
+        "channel": "Channel 11"
+      },
+      "02": {
+        "signal": "-47 dBm",
+        "channel": "Channel 11"
+      },
+      "03": {
+        "signal": "-47 dBm",
+        "channel": "Channel 11"
+      },
+      "04": {
+        "signal": "-57 dBm",
+        "channel": "Channel 11"
+      },
+      "05": {
+        "signal": "-57 dBm",
+        "channel": "Channel 11"
+      },
+      "06": {
+        "signal": "-54 dBm",
+        "channel": "Channel 11"
+      }
+    },
+    "e1xx": {
+      "01": {
+        "signal": "-56 dBm",
+        "channel": "Channel 6"
+      },
+      "02": {
+        "signal": "-51 dBm",
+        "channel": "Channel 6"
+      },
+      "03": {
+        "signal": "-47 dBm",
+        "channel": "Channel 6"
+      },
+      "04": {
+        "signal": "-33 dBm",
+        "channel": "Channel 6"
+      },
+      "05": {
+        "signal": "-41 dBm",
+        "channel": "Channel 6"
+      },
+      "06": {
+        "signal": "-42 dBm",
+        "channel": "Channel 6"
+      },
+      "07": {
+        "signal": "-48 dBm",
+        "channel": "Channel 6"
+      }
+    }
+  }
+}

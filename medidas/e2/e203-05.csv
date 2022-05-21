@@ -1,0 +1,6 @@
+"eduroam",5c:e8:83:36:6f:03,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2462 MHz,Channel 11,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-ALUNO",5c:e8:83:36:6f:01,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2462 MHz,Channel 11,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-VISITANTE",5c:e8:83:36:6f:02,[ESS],2462 MHz,Channel 11,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-SERVIDOR",5c:e8:83:36:6f:00,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2462 MHz,Channel 11,-58 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"",5c:e8:83:36:6f:05,[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS],2462 MHz,Channel 11,-57 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"",ac:b3:b5:95:2a:89,[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS],2412 MHz,Channel 1,-70 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz

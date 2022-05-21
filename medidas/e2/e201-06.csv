@@ -1,0 +1,9 @@
+"GVT-BA18",00:0c:c3:5d:ba:18,[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2472 MHz,Channel 13,-72 dBm,CenterFreq0 2462 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"eduroam",5c:e8:83:36:6f:03,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2412 MHz,Channel 1,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-VISITANTE",5c:e8:83:36:6f:02,[ESS],2412 MHz,Channel 1,-64 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"",00:03:7f:00:00:00,[ESS],2462 MHz,Channel 11,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-ALUNO",5c:e8:83:36:6f:01,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2412 MHz,Channel 1,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-SERVIDOR",5c:e8:83:36:6f:00,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2412 MHz,Channel 1,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"WifiThingy :P",08:55:31:6c:b8:1d,[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS],2447 MHz,Channel 8,-77 dBm,CenterFreq0 2457 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"",5c:e8:83:36:6b:c8,[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS],2462 MHz,Channel 11,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"Jane Cristina",50:d4:f7:17:34:c4,[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS],2452 MHz,Channel 9,-74 dBm,CenterFreq0 2442 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz

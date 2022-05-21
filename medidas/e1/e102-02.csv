@@ -1,0 +1,12 @@
+"UTFPR-ALUNO",5c:e8:83:36:6b:c1,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2462 MHz,Channel 11,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-VISITANTE",5c:e8:83:36:6b:c2,[ESS],2462 MHz,Channel 11,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"eduroam",5c:e8:83:36:6b:c3,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2462 MHz,Channel 11,-69 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-ALUNO",5c:e8:83:36:6f:01,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2412 MHz,Channel 1,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-SERVIDOR",5c:e8:83:36:6f:00,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2412 MHz,Channel 1,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"eduroam",5c:e8:83:36:6f:03,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2412 MHz,Channel 1,-73 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-SERVIDOR",ac:b3:b5:95:31:00,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2437 MHz,Channel 6,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-ALUNO",ac:b3:b5:95:31:01,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2437 MHz,Channel 6,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-VISITANTE",ac:b3:b5:95:31:02,[ESS],2437 MHz,Channel 6,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"eduroam",ac:b3:b5:95:31:03,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2437 MHz,Channel 6,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-VISITANTE",5c:e8:83:36:6f:02,[ESS],2412 MHz,Channel 1,-77 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-VISITANTE",ac:b3:b5:95:2c:22,[ESS],2462 MHz,Channel 11,-88 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz

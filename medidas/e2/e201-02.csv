@@ -1,0 +1,15 @@
+"UTFPR-VISITANTE",5c:e8:83:36:6f:02,[ESS],2412 MHz,Channel 1,-63 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"eduroam",5c:e8:83:36:6f:03,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2412 MHz,Channel 1,-60 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"",00:03:7f:00:00:00,[ESS],2462 MHz,Channel 11,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-SERVIDOR",5c:e8:83:36:6f:00,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2412 MHz,Channel 1,-61 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-ALUNO",5c:e8:83:36:6f:01,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2412 MHz,Channel 1,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"",5c:e8:83:36:6f:08,[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS],2412 MHz,Channel 1,-62 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"eduroam",ac:b3:b5:95:2c:23,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2437 MHz,Channel 6,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-VISITANTE",ac:b3:b5:95:2c:22,[ESS],2437 MHz,Channel 6,-74 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-ALUNO",ac:b3:b5:95:2c:21,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2437 MHz,Channel 6,-75 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-SERVIDOR",ac:b3:b5:95:2c:20,[WPA2-EAP-CCMP][RSN-EAP-CCMP][WPA-EAP-CCMP][ESS],2437 MHz,Channel 6,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"",ac:b3:b5:95:2c:28,[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS],2437 MHz,Channel 6,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"UTFPR-VISITANTE",5c:e8:83:36:6b:c2,[ESS],2462 MHz,Channel 11,-76 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"CONNECT SMART",fc:bc:d1:74:ab:c0,[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][ESS],2452 MHz,Channel 9,-80 dBm,CenterFreq0 2442 MHz,CenterFreq1 0 MHz,ChannelWidth 40 MHz
+"Adesg22 2.4",e8:13:6e:ff:bd:a8,[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2417 MHz,Channel 2,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
+"RH 2G",fc:73:fb:07:35:04,[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS],2452 MHz,Channel 9,-81 dBm,CenterFreq0 0 MHz,CenterFreq1 0 MHz,ChannelWidth 20 MHz
