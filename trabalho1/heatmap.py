@@ -29,7 +29,7 @@ def get_color_from_signal(signal):
 
 def main():
   ssid = 'UTFPR-VISITANTE'
-  floor = 'e1'
+  floor = 'e2'
   room_template = cv2.imread('room_template.png')
   room_sig = np.zeros((room_template.shape[0], room_template.shape[1]), dtype=np.float32)
   signal_count = np.zeros((room_template.shape[0], room_template.shape[1]), dtype=np.float32)
