@@ -1,0 +1,9 @@
+msg = Olá!
+
+https://mothereff.in/binary-ascii
+msg_bin(encoding extended ASCII) = 01001111011011001110000100100001 
+
+https://www.dcode.fr/manchester-code
+msg_manchester_coding = 0110010110101010011010011010010110101001010101100101100101010110
+
+msg_manchester_decoding = 01001111011011001110000100100001
