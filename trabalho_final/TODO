@@ -2,12 +2,11 @@ Fazer a interface gráfica, contendo:
   - Cliente:
     - Input para mensagem escrita
     - Codificação da mensagem para binário (pode ser um input não editável)
-    - Codificação da mensagem para o algoritmo de criptografia (pode ser um input não editável)
+    - [X] Codificação da mensagem para o algoritmo de criptografia (pode ser um input não editável)
     - Gráfico da codificação manchester
 
   - Servidor:
-    - Gráfico da codificação manchester
     - A mensagem com o algoritmo de criptografia (pode ser um input não editável)
-    - Decodificação da mensagem para o algoritmo de criptografia em binário (pode ser um input não editável)
+    - [X] Decodificação da mensagem para o algoritmo de criptografia em binário (pode ser um input não editável)
     - Decodificação da mensagem em binário para ASCII extentido (pode ser um input não editável)
     
