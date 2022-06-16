@@ -12,7 +12,8 @@ class Crypto:
     return bytes(encrypted)
 
   # Ceasar cipher
-  def decrypt(self, b):
+  def decrypt(self, text):
+    b = bytes(text, "latin-1")
     decrypted = []
     for byte in b:
       if (byte - self.key) < 0:
