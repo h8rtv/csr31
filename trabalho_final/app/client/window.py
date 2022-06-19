@@ -1,5 +1,3 @@
-import numpy as np
-from distutils.command.build import build
 from PySide6 import QtCore, QtWidgets
 
 from matplotlib.backends.backend_qtagg import (
@@ -40,12 +38,12 @@ class ClientWindow(QtWidgets.QWidget):
 
     self.setLayout(flo)
     self.setWindowTitle('Client')
-  
+
   def build_canvas(self):
     canvas = FigureCanvas(Figure(figsize=(5, 3)))
     self.canvas_subplots = canvas.figure.subplots()
     return canvas
-  
+
   def update_canvas(self):
     self.canvas_subplots.cla()
     data = self.binary_msg_manchester.text()
@@ -57,7 +55,7 @@ class ClientWindow(QtWidgets.QWidget):
       self.canvas_subplots.step(x, y, where='post')
 
     self.canvas_subplots.figure.canvas.draw()
-  
+
   @QtCore.Slot(str)
   def on_msg_changed(self, msg):
     encrypted = handler.get_encrypted_msg(msg)
