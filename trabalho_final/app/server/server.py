@@ -19,3 +19,4 @@ def tcp_server(callback):
             break
           callback(data)
       conn.close()
+      s.close()
