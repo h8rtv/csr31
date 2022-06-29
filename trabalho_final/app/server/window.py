@@ -37,11 +37,11 @@ class ServerWindow(QtWidgets.QWidget):
 
   @QtCore.Slot(dict)
   def on_data(self, data):
+    self.binary_msg_manchester.setText(data['binary_msg_manchester'])
+    self.update_canvas()
     self.msg.setText(data['msg'])
     self.encrypted_msg.setText(data['encrypted_msg'])
     self.binary_msg.setText(data['binary_msg'])
-    self.binary_msg_manchester.setText(data['binary_msg_manchester'])
-    self.update_canvas()
 
   def build_canvas(self):
     canvas = FigureCanvas(Figure(figsize=(5, 3)))
